@@ -19,6 +19,7 @@ const Selgeneros=()=>{
     },[])  
     return(
         <>
+        <h6>ejemplo</h6>
         <select>
              {generos.map(genero=>(
                             
